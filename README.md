@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YameiZhu
 - 👀 I’m interested in delicious food, taking beautiful photos and travelling
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently working as a backend SDE
 - 💞️ I’m looking to collaborate on developing interesting and impactful projects
 
 <!---
