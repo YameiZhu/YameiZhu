@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YameiZhu
-- 👀 I’m interested in delicious food, taking beautiful photos and travelling
+- 👀 I’m interested in delicious food, collecting beautiful stationery and watching comedy
 - 🌱 I’m currently working as a backend SDE
 - 💞️ I’m looking to collaborate on developing interesting and impactful projects
 
